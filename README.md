@@ -1,1 +1,3 @@
-# MyAspNetBoilerplateSnippets
+# ASP.NET Boilerplate snippets
+## Just a bunch of snippets for the free versión of ASP.NET Boilerplate
+### For my personal use, help yourself if you want to...
